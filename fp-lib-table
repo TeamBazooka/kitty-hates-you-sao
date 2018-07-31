@@ -1,0 +1,4 @@
+
+(fp_lib_table
+  (lib (name "cat hates you")(type KiCad)(uri "$(KIPRJMOD)/cat hates you.pretty")(options "")(descr ""))
+)
